@@ -1,4 +1,4 @@
-FROM ubuntu:trusty
+FROM ioft/i386-ubuntu:14.04
 MAINTAINER Fernando Mayo <fernando@tutum.co>, Feng Honglin <hfeng@tutum.co>
 
 # Install packages
